@@ -277,4 +277,8 @@ const TablePage = () => {
 					</div>
 				</div>
 			</Page>
-		</PageWrap
+		</PageWrapper>
+	);
+};
+
+export default TablePage;

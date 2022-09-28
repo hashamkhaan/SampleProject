@@ -1066,3 +1066,6 @@ const AddPlots = (props) => {
 			</Modal>
 		</>
 	);
+};
+
+export default AddPlots;

@@ -1074,4 +1074,4 @@ const documentation = [
 ];
 const contents = [...presentation, ...documentation];
 
-export default 
+export default contents;
